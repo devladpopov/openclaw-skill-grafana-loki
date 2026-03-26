@@ -121,6 +121,12 @@ The included `alert-webhook` container receives Grafana webhooks and enriches al
 - Docker (all components run in containers)
 - Python 3.12+ (for alert-webhook and daily report)
 
+## Author
+
+**Vladislav Popov** — [vladislavpopov.ru](https://vladislavpopov.ru) | [GitHub](https://github.com/devladpopov)
+
+Built for [OpenClaw](https://openclaw.ai) AI agent platform.
+
 ## License
 
 MIT
